@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a0354c656d688f41a6e9088a904b389
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - firingPoint: {instanceID: 0}
+  - LoseScreen: {instanceID: 0}
+  - ShootClip: {fileID: 8300000, guid: 8bc25a65b45fd904db30353cdc5efd73, type: 3}
+  - LifeClip: {fileID: 8300000, guid: 88e7e537ec509574288f2ad29b585e3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

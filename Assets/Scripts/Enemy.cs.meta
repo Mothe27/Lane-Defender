@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 230d6af4be6148b4eabb316eb9ba4732
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - killBox: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - HurtClip: {fileID: 8300000, guid: 3e7fe70a06e5a704882b1828a8a3e93e, type: 3}
+  - DeathClip: {fileID: 8300000, guid: 8cd459891e20ae849ade7cd38ca4258d, type: 3}
+  - LoseLifeClip: {fileID: 8300000, guid: 88e7e537ec509574288f2ad29b585e3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
